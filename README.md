@@ -14,6 +14,8 @@ Add the font family.
 Set up HTML sections and and add the html text. (image)
 Add images to folder
 Add CSS styling - first everything
+Add style section by section
+Check mobile view than bigger.
 
 source of images: unsplash.com
 source of text: indoorclimbing.com
