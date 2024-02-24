@@ -15,7 +15,10 @@ Set up HTML sections and and add the html text. (image)
 Add images to folder
 Add CSS styling - first everything
 Add style section by section
+Add dark theme in css and js
+
 Check mobile view than bigger.
+
 
 source of images: unsplash.com
 source of text: indoorclimbing.com

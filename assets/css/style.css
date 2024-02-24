@@ -179,14 +179,3 @@ footer a {
 }
 
 /*media screen*/
-
-@media screen and (min-width: 1200px) {
-  img:hover,
-  .small-img:hover,
-  .big-img:hover,
-  .first-img:hover {
-    border: 2px solid var(--pink-color);
-    z-index: 10;
-    transform: scale(1);
-  }
-}
