@@ -13,6 +13,7 @@ Connect the files, sxript in the end of body.
 Add the font family.
 Set up HTML sections and and add the html text. (image)
 Add images to folder
+Add CSS styling - first everything
 
 source of images: unsplash.com
 source of text: indoorclimbing.com
